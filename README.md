@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Patil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Final+Year+Engineering+Student;Data+Analytics+Enthusiast;Python+SQL+PowerBI;AI+%7C+IoT+Projects;Future+Data+Scientist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Final+Year+Engineering+Student;Data+Analytics+Enthusiast;Python+SQL+Jupyter;AI+%7C+IoT+Projects;Future+Data+Scientist" />
 </p>
 
 ---
@@ -10,20 +10,21 @@
 
 🎓 Final Year B.Tech Student (Electronics & Telecommunication)  
 📊 Interested in Data Analytics, Data Science & AI  
-💻 Skilled in Python, SQL, Excel, Power BI  
-🤖 Worked on IoT, Raspberry Pi & AI Projects  
-📈 Love building real-world projects  
-🔥 Goal → Data Analyst / Data Scientist  
+💻 Working with Python, PostgreSQL, MySQL, Excel, Power BI  
+📒 Using Jupyter Notebook for Data Analysis & Machine Learning  
+🤖 Built IoT & AI projects using Raspberry Pi & ESP32  
+📈 Passionate about real-world projects & problem solving  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming & Database
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 
 ### 📊 Data Analytics
 
@@ -32,14 +33,17 @@
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-darkblue?style=for-the-badge&logo=numpy)
 
-### ⚙️ Tools & Technology
+### 🤖 AI / IoT
+
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-red?style=for-the-badge&logo=raspberrypi)
+![ESP32](https://img.shields.io/badge/ESP32-grey?style=for-the-badge)
+![MachineLearning](https://img.shields.io/badge/MachineLearning-blue?style=for-the-badge)
+
+### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudio)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-red?style=for-the-badge&logo=raspberrypi)
-![ESP32](https://img.shields.io/badge/ESP32-grey?style=for-the-badge)
 
 ---
 
@@ -63,18 +67,14 @@
 
 ---
 
----
-
-
 ## 📁 Projects
 
-🔹 Dynamic Retail Dashboard (Excel / Power BI)  
-🔹 AI SQL Assistant  
-🔹 Third Eye – AI Assistive Device for Blind People  
-🔹 Supermarket Sales EDA (Python)  
-🔹 Excel Dashboard Project  
-🔹 SQL Practice Project  
-🔹 IoT Projects using Raspberry Pi & ESP32  
+🔹 Dynamic Retail Dashboard – Excel Data Analysis  
+🔹 AI CYOA Platform – Python / Jupyter  
+🔹 Smart Waste Classifier – Machine Learning  
+🔹 Third Year Project – IoT + AI + Raspberry Pi  
+🔹 SQL Practice – PostgreSQL / MySQL  
+🔹 Techsaksham Training Projects  
 
 ---
 
@@ -82,8 +82,8 @@
 
 - Data Science
 - Advanced SQL
-- Power BI Advanced
-- Machine Learning
+- Power BI Dashboards
+- Machine Learning Basics
 - Python for Data Analysis
 
 ---
