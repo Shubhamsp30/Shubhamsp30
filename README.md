@@ -65,11 +65,6 @@
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Shubhamsp30&color=blue)
-
----
 
 ## 📁 Projects
 
