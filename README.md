@@ -63,11 +63,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Shubhamsp30/Shubhamsp30/output/github-contribution-grid-snake.svg"/>
-</p>
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Shubhamsp30&color=blue)
 
 ---
 
